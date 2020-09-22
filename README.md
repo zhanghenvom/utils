@@ -16,3 +16,5 @@
 
 [转盘](https://github.com/zhanghenvom/utils/blob/master/paging.js)
 
+参考:
+[正则表达](https://any86.github.io/any-rule/)

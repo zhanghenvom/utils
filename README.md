@@ -10,9 +10,8 @@
 - - -
 [判断手机系统](https://github.com/zhanghenvom/utils/blob/master/iosOrAndroid.js)
 - - -
-[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/paging.js)
+[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/test.js)
 - - -
-[转盘](https://github.com/zhanghenvom/utils/blob/master/paging.js)
 
 #### 参考:
 

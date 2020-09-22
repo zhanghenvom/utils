@@ -9,5 +9,4 @@
 let methdos = (array, page, number) => {
     return array.filter((e, i, a) => page * (number - 1) <= i && i < page * number)
 }
-
 // console.log(methdos([...array], 5, 1));   

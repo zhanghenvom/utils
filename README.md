@@ -10,7 +10,11 @@
 - - -
 [判断手机系统](https://github.com/zhanghenvom/utils/blob/master/iosOrAndroid.js)
 - - -
-[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/test.js)
+[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/desensitization.js)
+- - -
+[正则表达式](https://github.com/zhanghenvom/utils/blob/master/RegExp.js)
+- - -
+[深拷贝](https://github.com/zhanghenvom/utils/blob/master/deepCopy.js)
 - - -
 
 #### 参考:

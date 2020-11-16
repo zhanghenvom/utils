@@ -17,6 +17,11 @@
 [深拷贝](https://github.com/zhanghenvom/utils/blob/master/deepCopy.js)
 - - -
 
+#### 陈
+[timeOut](https://github.com/zhanghenvom/utils/blob/master/timeOut.js)
+- - -
+
+
 #### 参考:
 
 [正则表达](https://any86.github.io/any-rule/)

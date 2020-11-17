@@ -18,6 +18,8 @@
 - - -
 [转盘](https://github.com/zhanghenvom/utils/blob/master/故川/Rotate.js)
 - - -
+[商品价格处理](https://github.com/zhanghenvom/utils/blob/master/故川/toStr.js)
+- - -
 
 #### 陈:
 [timeOut](https://github.com/zhanghenvom/utils/blob/master/陈/timeOut.js)

@@ -1,4 +1,4 @@
-### 前端小活动一起记录工作中常用函数方法-人数：2
+### 前端小伙伴一起记录工作中常用函数方法-人数：2
 
 #### 故川: 
 
@@ -21,7 +21,7 @@
 [商品价格处理](https://github.com/zhanghenvom/utils/blob/master/故川/toStr.js)
 - - -
 
-#### 陈:
+#### chen199712:
 [timeOut](https://github.com/zhanghenvom/utils/blob/master/陈/timeOut.js)
 - - -
 [axios](https://github.com/zhanghenvom/utils/blob/master/陈/axios.js)
@@ -30,6 +30,6 @@
 - - -
 
 
-#### 参考:
 
+#### 参考:
 [正则表达](https://any86.github.io/any-rule/)

@@ -20,6 +20,8 @@
 - - -
 [商品价格处理](https://github.com/zhanghenvom/utils/blob/master/故川/toStr.js)
 - - -
+[H5页面处理](https://github.com/zhanghenvom/utils/blob/master/故川/auto-size.js)
+- - -
 
 #### chen199712:
 [timeOut](https://github.com/zhanghenvom/utils/blob/master/陈/timeOut.js)

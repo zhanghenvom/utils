@@ -1,4 +1,4 @@
-### 前端小伙伴一起记录工作中常用函数方法-人数：2
+### 前端小伙伴一起记录工作中常用函数方法-人数：3
 
 #### 故川: 
 
@@ -33,7 +33,7 @@
 [recursion](https://github.com/zhanghenvom/utils/blob/master/陈/recursion.js)
 - - -
 
-
+#### 杰: 
 
 #### 参考:
 [正则表达](https://any86.github.io/any-rule/)

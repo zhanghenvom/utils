@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2020-12-24 14:42:03
+ * @LastEditTime: 2021-01-20 10:24:22
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \utils\formatTime.js
+ */
 /** 
  * 时间戳转化为年 月 日 时 分 秒 
  * number: 传入时间戳 

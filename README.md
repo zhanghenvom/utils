@@ -1,37 +1,29 @@
 
-#### zhangyuchen: 
+####: 列表
 
-[格式化时间](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/formatTime.js)
+[格式化时间](https://github.com/zhanghenvom/utils/blob/master/formatTime.js)
 - - -
-[分页函数](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/paging.js)
+[分页函数](https://github.com/zhanghenvom/utils/blob/master/paging.js)
 - - -
-[web端存储](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/auth.js)
+[web端存储](https://github.com/zhanghenvom/utils/blob/master/auth.js)
 - - -
-[判断手机系统](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/iosOrAndroid.js)
+[判断手机系统](https://github.com/zhanghenvom/utils/blob/master/iosOrAndroid.js)
 - - -
-[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/desensitization.js)
+[敏感信息脱敏](https://github.com/zhanghenvom/utils/blob/master/desensitization.js)
 - - -
-[正则表达式](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/RegExp.js)
+[正则表达式](https://github.com/zhanghenvom/utils/blob/master/RegExp.js)
 - - -
-[深拷贝](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/deepCopy.js)
+[深拷贝](https://github.com/zhanghenvom/utils/blob/master/deepCopy.js)
 - - -
-[转盘](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/Rotate.js)
+[转盘](https://github.com/zhanghenvom/utils/blob/master/Rotate.js)
 - - -
-[商品价格处理](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/toStr.js)
+[商品价格处理](https://github.com/zhanghenvom/utils/blob/master/toStr.js)
 - - -
-[H5页面处理](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/auto-size.js)
+[H5页面处理](https://github.com/zhanghenvom/utils/blob/master/auto-size.js)
 - - -
-[数组升降序](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/arrSort.js)
+[数组升降序](https://github.com/zhanghenvom/utils/blob/master/arrSort.js)
 - - -
-[倒计时](https://github.com/zhanghenvom/utils/blob/master/zhangyuchen/updateEndTime.js)
-- - -
-
-#### chen199712:
-[timeOut](https://github.com/zhanghenvom/utils/blob/master/陈/timeOut.js)
-- - -
-[axios](https://github.com/zhanghenvom/utils/blob/master/陈/axios.js)
-- - -
-[recursion](https://github.com/zhanghenvom/utils/blob/master/陈/recursion.js)
+[倒计时](https://github.com/zhanghenvom/utils/blob/master/updateEndTime.js)
 - - -
 
 

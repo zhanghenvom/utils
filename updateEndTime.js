@@ -15,6 +15,7 @@ function updateEndTime(end_time, format = 'D天h时m分s秒') {
     if (end_time <= Math.round(new Date() / 1000)) {
         clearInterval(time)
     } else {
+        
         let lag = end_time - Math.round(new Date() / 1000);  //剩余时间的时间戳
         let formateArr = ['D', 'h', 'm', 's'];
         let returnArr = [];

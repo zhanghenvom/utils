@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
+=======
 ####: 列表
 
+>>>>>>> b6fa423ebfc4dc5ac4e5acefe758982bbd9d00b9
 [格式化时间](https://github.com/zhanghenvom/utils/blob/master/formatTime.js)
 - - -
 [分页函数](https://github.com/zhanghenvom/utils/blob/master/paging.js)
@@ -24,6 +27,8 @@
 [数组升降序](https://github.com/zhanghenvom/utils/blob/master/arrSort.js)
 - - -
 [倒计时](https://github.com/zhanghenvom/utils/blob/master/updateEndTime.js)
+- - -
+[阿拉伯数字转汉字数字](https://github.com/zhanghenvom/utils/blob/master/toChinesNum.js)
 - - -
 
 
